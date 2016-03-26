@@ -13,7 +13,7 @@ int main() {
     
     if (fn == 1) {
       arg1 = buff[1];
-      result = twice(arg1);
+      result = factorial(arg1);
     } else if (fn == 2) {
       arg1 = buff[1];
       arg2 = buff[2];
